@@ -1,0 +1,182 @@
+            header{
+                width: 100%;
+                height: auto;
+                padding: 30px;
+                margin: 40px;
+                display: flex;
+                position:absolute;
+                box-sizing: border-box;
+                /* flex-wrap: wrap; */
+            }
+            #logo  {
+                margin-left: 80px;  
+            }
+            nav .hero-page  {
+                list-style: none;
+                display: flex;  
+                margin: 10px;
+                flex-wrap: wrap;  
+            }
+            .hero-page a {
+                list-style: none;
+                padding: 30px;
+                text-decoration: none;
+                color: rgb(243, 241, 241);
+            }
+            .hero-page button{
+                background-color: #F3851D;
+                color: black;
+                padding: 12px  22px;
+                border-radius :8px 10px; 
+                cursor: pointer; 
+                text-decoration: none;
+                line-height: 4px;
+
+        }
+        #landingpage{
+            background-image: url(/images/cerah_web_banner_1\ 1.png);
+            height: 650px;
+            width: 100%;
+            background-size: cover; 
+        }
+        .landingpage-intro  {
+        text-align: center;
+        align-items: center;
+        width: 900px;
+        padding: 250px;
+        color: rgb(240, 235, 235);
+        margin: auto;
+       position: relative;
+        }
+        .landingpage-intro h1{
+         font-family: Montserrat;
+         font-size: 48px;
+         font-weight: 800;
+         line-height: 70px;
+         text-align: center;
+        }
+        .landingpage-intro p{
+            line-height: 20px;
+        }
+        
+        #highlights {
+            background-color: #14242C;
+            width: 100%; 
+            display: flex; 
+            overflow: auto;
+           justify-content: space-between;
+           border-radius: 14px  14px ;
+           height: 650px;
+          
+        }
+        #landingpage-3 li {
+         font-family: open sans;
+          list-style: none;
+          padding: 30px;  
+          color: white;
+          line-height: 32px;
+          font-size: 15px;
+          font-weight: 100px;
+        }
+        #landingpage-2 img{ 
+            position: relative; 
+            top: 50px; 
+            right: 80px;
+        }
+
+      #landingpage-2 p {
+        position: relative;
+        color: white;
+        font-weight: 100px;
+        padding-left: 100px;
+        line-height: 65px;
+       bottom: 320px;
+       font-size: 30px
+       
+      }
+
+     .landingpage-4 a {
+        color:white ;
+        background-color: #F3851D;
+        padding: 12px 22px;
+        border-radius: 5px;
+        line-height: 32px;
+        text-decoration: none;
+     
+       }
+
+       <!---->
+       #container{
+        background-color: rgb(252, 246, 246);
+        overflow: hidden;
+    
+       }
+
+       #container h2{
+        text-align: center ;
+        color: rgb(22, 20, 20);
+        font-size: 32px;
+        margin: auto;
+        padding: 20px;
+        
+       }
+       .section3 {
+        display: flex;
+        flex-wrap: wrap;
+        object-fit: cover;
+        list-style: none;
+        text-decoration: none;
+        flex-direction: row;
+        margin-bottom: 20px;
+        justify-content: space-evenly;
+      
+       }
+       .section3 a{
+        color: #F3851D;
+       }
+       
+       .section11 h3 p{
+       text-align: center;
+        margin:auto;
+       }
+     
+       .section111 h3 p{
+        text-align: center;
+        align-items: center;
+        margin: auto;
+       }
+
+       .section1111 h3 p {
+        align-items: center;
+       }
+    .view a  {
+    background-color: #F3851D;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    padding: 10px ;
+    border: none;
+   flex-direction: row;
+    overflow: hidden;
+    align-self: center;
+   
+   }
+   #section4{
+    background-color:#14242C;
+    height: 500px;
+    width: 100%;
+    
+   }
+   #section4 h2 {
+    color: white;
+   }
+   .figma{
+
+   }
+   .figma1{
+   background-color: #3B4858;
+   color: white;
+   height: 10rem;
+   width: 20rem;
+   }
